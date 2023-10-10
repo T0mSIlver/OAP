@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="Configuration 1" category="opl">
+			<ref name="model1.mod" type="model">
+			</ref>
+			<ref name="data1.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration 2" category="opl">
+			<ref name="data2.dat" type="data">
+			</ref>
+			<ref name="model2.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Configuration 3 Q2" category="opl">
+			<ref name="model3 Q2.mod" type="model">
+			</ref>
+			<ref name="data2.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration 4 Q3" category="opl">
+			<ref name="model4 Q3.mod" type="model">
+			</ref>
+			<ref name="data3.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

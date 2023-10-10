@@ -1,0 +1,57 @@
+
+Log started (V20.1.0.0) Fri Mar 24 09:05:15 2023
+
+
+Problem 'Efes.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.01 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+
+Dual simplex - Optimal:  Objective =  9.9082815313e+00
+Solution time =    0.00 sec.  Iterations = 11 (0)
+Deterministic time = 0.02 ticks  (24.94 ticks/sec)
+
+
+                                                  RHS Sensitivity Ranges
+Constraint Name        Dual Price            Down         Current              Up
+demandCl(1)                0.0031            zero        103.0000        121.0000
+demandCl(2)                0.0431         35.0000         74.0000         92.0000
+demandCl(3)                0.0411         11.0000         50.0000         68.0000
+demandCl(4)                0.0201            zero         60.0000         78.0000
+demandCl(5)                0.0251         63.0000        102.0000        120.0000
+demandCl(6)                0.0451            zero         13.0000         31.0000
+capacityBrew(1)              zero        202.0000        220.0000       +infinity
+capacityBrew(2)           -0.0001        182.0000        200.0000        239.0000
+beerYield(1)              -0.0031        -47.9900            zero        152.0100
+beerYield(2)              -0.0020       -414.6340            zero        152.0100
+capacityMalt(1)              zero         24.2410         30.0000         48.2419
+capacityMalt(2)              zero         18.2419         68.0000       +infinity
+capacityMalt(3)              zero            zero         20.0000       +infinity
+
+                                                  RHS Sensitivity Ranges
+Constraint Name        Dual Price            Down         Current              Up
+demandCl(1)                0.0031            zero        103.0000        121.0000
+demandCl(2)                0.0431         35.0000         74.0000         92.0000
+demandCl(3)                0.0411         11.0000         50.0000         68.0000
+demandCl(4)                0.0201            zero         60.0000         78.0000
+demandCl(5)                0.0251         63.0000        102.0000        120.0000
+demandCl(6)                0.0451            zero         13.0000         31.0000
+capacityBrew(1)              zero        202.0000        220.0000       +infinity
+capacityBrew(2)           -0.0001        182.0000        200.0000        239.0000
+beerYield(1)              -0.0031        -47.9900            zero        152.0100
+beerYield(2)              -0.0020       -414.6340            zero        152.0100
+capacityMalt(1)              zero         24.2410         30.0000         48.2419
+capacityMalt(2)              zero         18.2419         68.0000       +infinity
+capacityMalt(3)              zero            zero         20.0000       +infinity
+
+Log started (V20.1.0.0) Fri Mar 24 09:42:42 2023
+
+
+Problem 'Efes.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+No basic solution exists.

@@ -1,0 +1,350 @@
+!SESSION 2023-03-24 08:06:02.142 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:06:02.148
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:12:21.913 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:12:21.919
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:12:41.492 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:12:41.499
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2023-03-24 08:12:41.556
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2023-03-24 08:12:41.557
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2023-03-24 08:13:04.413 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:13:04.420
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:22:28.507 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:22:28.513
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:32:59.360 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:32:59.366
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:33:23.702 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:33:23.708
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:33:31.258 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:33:31.263
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:36:09.763 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:36:09.770
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:36:23.268 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:36:23.274
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:36:36.800 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:36:36.806
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:37:40.951 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:37:40.957
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:39:16.633 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:39:16.640
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:39:31.604 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:39:31.611
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:40:44.948 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:40:44.954
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:41:03.149 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:41:03.156
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:42:01.114 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:42:01.121
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:46:47.125 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:46:47.130
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:46:55.967 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:46:55.974
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:47:41.981 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:47:41.989
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 08:55:05.340 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 08:55:05.346
+!MESSAGE Run Q1 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:04:12.741 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:04:12.746
+!MESSAGE Run Q4 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:21:08.247 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:21:08.254
+!MESSAGE Run Q4 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:31:41.177 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:31:41.183
+!MESSAGE Run Q4 in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:37:26.220 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:37:26.226
+!MESSAGE Run exp in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:39:01.026 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:39:01.032
+!MESSAGE Run exp in C:/Users/tvaucour/Desktop/TP2
+!SESSION 2023-03-24 09:39:11.749 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\tvaucour\Desktop\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2023-03-24 09:39:11.755
+!MESSAGE Run Q4 in C:/Users/tvaucour/Desktop/TP2

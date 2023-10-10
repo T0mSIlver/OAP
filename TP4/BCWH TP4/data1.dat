@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: tvaucour
+ * Creation Date: 14 avr. 2023 at 08:09:46
+ *********************************************/
+SheetConnection my_sheet("data-BCWH.xlsx");
+
+nbDoc = 15;
+nbShifts = 56;
+nbSemaines = 4;
+ 
+DayOff from SheetRead(my_sheet, "'Model'!AB12:AP67");
+ShiftsReq from SheetRead(my_sheet, "'Model'!E69:S69"); 
+POWReq from SheetRead(my_sheet, "'Model'!E78:S78"); 
+
+x to SheetWrite(my_sheet, "'Solution_check'!E12:S67");
+y to SheetWrite(my_sheet, "'Solution_check'!E73:S76");

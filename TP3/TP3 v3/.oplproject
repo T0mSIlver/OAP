@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Q1" category="opl">
+            			
+            <ref name="mod1.mod" type="model">
+			</ref>
+            			
+            <ref name="data.dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="INT" category="opl">
+            			
+            <ref name="modINT.mod" type="model">
+			</ref>
+            			
+            <ref name="data.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
